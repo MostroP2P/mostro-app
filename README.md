@@ -2,13 +2,19 @@
 
 ## Android
 
-<img src="android/screenshots/auth_screen.png" width="500">
+### Onboarding screens
 
-### Home
-<img src="android/screenshots/home_screen.png" width="500">
+<img src="android/screenshots/Onboarding1.png" width="360">
 
-### Orders - Sell
-<img src="android/screenshots/orders_sell_screen.png" width="500">
+<img src="android/screenshots/Onboarding2.png" width="360">
 
-### Orders - Buy
-<img src="android/screenshots/orders_buy_screen.png" width="500">
+<img src="android/screenshots/Onboarding3.png" width="360">
+
+<img src="android/screenshots/Onboarding4.png" width="360">
+
+
+### Market main sell screen
+
+<img src="android/screenshots/MarketMainSell.png" width="360">
+
+A Mostro mobile design prototype will be available soon.
