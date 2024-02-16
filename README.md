@@ -1,20 +1,4 @@
-# Mostro mobile app
+# Mobile Mostro client
 
-## Android
+This project is a WIP mobile client that will enable peer-to-peer bitcoin trading over the lightning network ⚡️ using nostr 🦩. The lightning network is a layer 2 scaling solution for bitcoin that enables fast and low-cost transactions.
 
-### Onboarding screens
-
-<img src="android/screenshots/Onboarding1.png" width="360">
-
-<img src="android/screenshots/Onboarding2.png" width="360">
-
-<img src="android/screenshots/Onboarding3.png" width="360">
-
-<img src="android/screenshots/Onboarding4.png" width="360">
-
-
-### Market main sell screen
-
-<img src="android/screenshots/MarketMainSell.png" width="360">
-
-A Mostro mobile design prototype will be available soon.
